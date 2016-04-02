@@ -1,0 +1,34 @@
+
+a.titlelink {
+	color:#000000; 
+	text-decoration:none;
+}
+
+
+table.namelists {
+	border:1px;
+	border-collapse: collapse;
+
+}
+
+.namelists th{
+	padding: 6px;
+	text-align: left;
+	vertical-align: top;
+	color: #333;
+	background-color: #eee;
+	border: 1px solid #b9b9b9;
+}
+
+.namelists tr {
+}
+
+.namelists td {
+	padding: 4px;
+	background-color: #fff;
+	border: 1px solid #b9b9b9;
+}
+
+form {
+	display:inline;
+}
